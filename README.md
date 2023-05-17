@@ -34,6 +34,9 @@ The three levels are fully designed and ready to play.
  - Player hit sometimes doesn't register. 
 
 
+You can either download the Zip and run the .exe or you can go to https://deep02g.itch.io/space-blaster to play it on your browser. 
+
+
 
 
 
