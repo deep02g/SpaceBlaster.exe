@@ -11,17 +11,20 @@ The three levels are fully designed and ready to play.
 
 -> Level 1 is closed and very tight.
  
-<img width="455" alt="AIHy22" src="https://github.com/deep02g/SpaceBlaster.exe/assets/63899250/9220d0e4-8403-49f4-abf2-9c1b230fbd7b"> 
+
+<img width="455" alt="AIHy22" src="https://github.com/deep02g/SpaceBlaster.exe/assets/63899250/21814365-60ff-483b-af28-f40ee176065a">
 
 
 -> Level 2 is semi-open and you can choose which way you want to go, eventually looping through the areas.  
 
-<img width="442" alt="yhQZja" src="https://github.com/deep02g/SpaceBlaster.exe/assets/63899250/88fcf2ea-8657-41e6-9527-0736a53b54e1">
+<img width="442" alt="yhQZja" src="https://github.com/deep02g/SpaceBlaster.exe/assets/63899250/26c4e207-5ecf-4089-8a36-5e91ada146b6">
+
 
 
 -> Level 3 is a big open boss(es) fight, in which you just shoot whoever stands against you. 
 
-<img width="465" alt="cBBI1W" src="https://github.com/deep02g/SpaceBlaster.exe/assets/63899250/08e3f6c6-aa32-4b1b-855d-255d8014c915">
+<img width="465" alt="cBBI1W" src="https://github.com/deep02g/SpaceBlaster.exe/assets/63899250/0faf0124-58c7-46c2-abea-4aa473e82140">
+
 
 
 -> Known Bugs - 
