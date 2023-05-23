@@ -11,7 +11,7 @@ The three levels are fully designed and ready to play.
 
 -> Level 1 is closed and very tight.
  
-<img width="455" alt="AIHy22" src="https://github.com/deep02g/SpaceBlaster.exe/assets/63899250/9220d0e4-8403-49f4-abf2-9c1b230fbd7b">
+<img width="455" alt="AIHy22" src="https://github.com/deep02g/SpaceBlaster.exe/assets/63899250/9220d0e4-8403-49f4-abf2-9c1b230fbd7b"> 
 
 
 -> Level 2 is semi-open and you can choose which way you want to go, eventually looping through the areas.  
